@@ -130,10 +130,10 @@ Files
 Other VIM plugins you might find interesting
 ============================================
 
-- `Powerline <https://github.com/Lokaltog/vim-powerline>`_
+- `Powerline <https://github.com/powerline/powerline>`_
 - `NERDTree <https://github.com/scrooloose/nerdtree>`_
 - `Gundo <https://github.com/sjl/gundo.vim/>`_
 - `TabMan <https://github.com/kien/tabman.vim>`_
 - `PythonMode <https://github.com/klen/python-mode>`_
 - `FuzzyFinder <https://github.com/vim-scripts/FuzzyFinder>`_
-- `CtrlP <http://kien.github.com/ctrlp.vim/>`_
+- `CtrlP <https://ctrlpvim.github.io/ctrlp.vim/>`_
